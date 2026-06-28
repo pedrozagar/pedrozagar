@@ -3,8 +3,7 @@
 💻 Estudos
 
 - Desenvolvimento de interfaces com HTML e CSS;
-- C++ com foco em lógica de programação;
-- Boas práticas de programação (Clean Code);
+- C++ e Python com foco em lógica de programação;
 - Versionamento de código com Git e GitHub.
 
 ---
@@ -17,4 +16,4 @@ Em desenvolvimento de projetos práticos para aplicar novos conhecimentos.
 
 🚀 Objetivos
 
-Migrar para a área de TI no setor de desenvolvimento de sistemas e interfaces.
+Migrar para a área de TI no setor de Suporte, Desenvolvimento de Sistemas e Interfaces.
